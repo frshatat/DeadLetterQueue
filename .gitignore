@@ -1,0 +1,30 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code directories
+.vscode/
+
+# Rider directories
+.idea/
+*.sln.iml
+
+# macOS files
+.DS_Store
+
+# Node.js directories
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
